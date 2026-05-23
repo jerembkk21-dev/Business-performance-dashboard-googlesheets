@@ -58,14 +58,14 @@ The dashboard combines pivot tables, formulas, slicers, charts, and Apps Script 
 
 # 7) Example KPIs Used
 
-# KPI	           Description
+# KPI : Description
 
-- Total Sales	     Total revenue generated
-- Total Units      Sold	Number of products sold
-- Total Stock	     Remaining inventory
-- Best Product	   Product with highest sales
-- Best Supplier	   Supplier with highest stock
-- Reorder Items	   Products needing restock
+- Total Sales	: Total revenue generated
+- Total Units : Sold	Number of products sold
+- Total Stock	: Remaining inventory
+- Best Product : Product with highest sales
+- Best Supplier	: Supplier with highest stock
+- Reorder Items	: Products needing restock
 
 # 8) Apps Script Example
 
