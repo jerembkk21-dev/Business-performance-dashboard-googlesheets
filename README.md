@@ -99,6 +99,19 @@ function TopsalesbybestProduct() {
 
 # 10) Screenshots
 
+![Dashboard](screenshots/googlesheets_bpd_dashboard.png)
+
+
+![Dashboard](screenshots/googlesheets_bpd_salesdata.png)
+
+
+![Dashboard](screenshots/google_sheets_bpd_pivot_table.png)
+
+
+![Dashboard](screenshots/googlesheets_bpd_inventory.png)
+
+
+![Dashboard](screenshots/googlesheets_bpd_appascripts_macro.png)
 
 
 # 11) Future Improvements
