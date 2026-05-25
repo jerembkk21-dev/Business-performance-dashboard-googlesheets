@@ -23,7 +23,11 @@ The dashboard combines pivot tables, formulas, slicers, charts, and Apps Script 
 - Best Product
 - Reorder Status Tracking
 
-# 3) Data Analysis
+# 3) Data source
+
+This project was developed using a modified Google Sheets demo dataset. Additional data, dashboard components, KPIs, and automation features were manually added to extend the analysis and improve the reporting system.
+
+# 4) Data Analysis
 
 - Pivot tables for sales and inventory analysis
 - Dynamic sorting by highest sales
@@ -31,21 +35,21 @@ The dashboard combines pivot tables, formulas, slicers, charts, and Apps Script 
 - Employee performance tracking
 - Supplier stock analysis
 
-# 4) Automation
+# 5) Automation
 
 - Google Apps Script macros
 - Dashboard refresh button
 - Automated pivot table generation
 - Dynamic sorting and filtering
 
-# 5) Interactive Elements
+# 6) Interactive Elements
 
 - Slicers
 - Charts
 - Dropdown menus
 - Dashboard buttons
 
-# 6) Tools & Technologies
+# 7) Tools & Technologies
 
 - Google Sheets
 - Pivot Tables
@@ -56,7 +60,7 @@ The dashboard combines pivot tables, formulas, slicers, charts, and Apps Script 
 - Slicers
 - Conditional Formatting
 
-# 7) Example KPIs Used
+# 8) Example KPIs Used
 
 # KPI : Description
 
@@ -67,7 +71,7 @@ The dashboard combines pivot tables, formulas, slicers, charts, and Apps Script 
 - Best Supplier	: Supplier with highest stock
 - Reorder Items	: Products needing restock
 
-# 8) Apps Script Example
+# 9) Apps Script Example
 
 function TopsalesbybestProduct() {
 
@@ -93,11 +97,11 @@ function TopsalesbybestProduct() {
   );
 }
 
-# 9) Screenshots
+# 10) Screenshots
 
 
 
-# 10) Future Improvements
+# 11) Future Improvements
 
 - More advanced KPI tracking
 - Automated email reporting
@@ -106,6 +110,6 @@ function TopsalesbybestProduct() {
 - Improved UI design
 - Google Looker Studio integration
 
-# 11) Author
+# 12) Author
 
 Created as a data analytics and business dashboard portfolio project using Google Sheets and Apps Script.
