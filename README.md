@@ -40,7 +40,7 @@ This project was developed using a modified Google Sheets demo dataset. Addition
 - Google Apps Script macros
 - Dashboard refresh button
 - Automated pivot table generation
-- Dynamic sorting and filtering
+- Dynamic sorting
 
 # 6) Interactive Elements
 
